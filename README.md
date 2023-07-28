@@ -2,12 +2,12 @@
 Mafia Horizontal Scroll Demo
 
 # Table of Contents
-## Introduction
-## Demo
-## Features
-## Installation
-## Usage
-## Technologies Used
+- [Introduction](#introduction)
+- [Demo](#demo)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies](#technologies)
 
 # Introduction
 Mafia Horizontal Scroll is a captivating web design inspired by the mafioso theme. The design utilizes a library called "horizontal scroll" to create an engaging and interactive horizontal scrolling experience, adding a touch of style and uniqueness to your website.
@@ -30,7 +30,7 @@ As a web-based design, there is no installation required to experience Mafia Hor
 - Experience the interactive and smooth horizontal scrolling effect as you navigate through the content.
 - Marvel at the mafioso-inspired design elements and enjoy the unique web experience.
 
-# Technologies Used
+# Technologies
 - HTML
 - CSS
 - JavaScript
