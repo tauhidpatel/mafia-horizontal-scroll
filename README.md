@@ -1,5 +1,5 @@
 # Mafia Horizontal Scroll
-Mafia Horizontal Scroll Demo
+![tauhid-mafia-horizontal](https://github.com/Tauhid-Patel/mafia-horizontal-scroll/assets/43630196/a7507064-67c1-417e-852f-01c16fe3b35a)
 
 # Table of Contents
 - [Introduction](#introduction)
@@ -13,9 +13,7 @@ Mafia Horizontal Scroll Demo
 Mafia Horizontal Scroll is a captivating web design inspired by the mafioso theme. The design utilizes a library called "horizontal scroll" to create an engaging and interactive horizontal scrolling experience, adding a touch of style and uniqueness to your website.
 
 # Demo
-Mafia Horizontal Scroll Demo
-
-Check out the live demo here!
+[Check out the live demo here!](https://zen-cori-8415ee.netlify.app/)
 
 # Features
 Horizontal Scrolling: The web design features smooth horizontal scrolling that enhances the user experience.
